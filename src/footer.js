@@ -10,7 +10,7 @@ class Footer extends React.Component {
         <br></br>
         <a href="https://www.linkedin.com/in/karuprice?trk=nav_responsive_tab_profile"><i className="fa fa-linkedin"></i></a>
         <a href="https://twitter.com/Karl_Price"><i className="fa fa-twitter"></i></a>
-        <a href="https://github.com/karuprice"><i className="fa fa-github"></i></a>
+        <a href="https://github.com/karuprice/random-seating-plan"><i className="fa fa-github"></i></a>
       </div>
     );
   }
